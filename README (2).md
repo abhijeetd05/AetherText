@@ -45,7 +45,7 @@ TweetEval consists of **seven Twitter-specific classification tasks**:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/abhijeetd05/AetherText/
    cd AetherText
 
 2. **Load Chrome Extension**:
@@ -75,7 +75,6 @@ TweetEval consists of **seven Twitter-specific classification tasks**:
 - **CORS enabled** for Chrome extension communication  
 - Uses **Hugging Face Transformers** fine-tuned on:  
   - **English abusive datasets** (HASOC, HOT)  
-  - **Custom Hinglish abusive dataset**  
 - **Evaluation** possible with **TweetEval datasets** for standard benchmarking  
 
 ---
