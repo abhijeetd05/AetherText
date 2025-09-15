@@ -90,7 +90,6 @@ extension
     ├─ popup.html          # Extension popup UI
     ├─ background.js      # Handles fetch requests to Flask backend
     ├─ manifest.json       # Chrome extension manifest
-
 ├─ requirements.txt    # Python dependencies
 ├─ app.py              # Flask backend
 ```
